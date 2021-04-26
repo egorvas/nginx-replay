@@ -6,7 +6,7 @@ A simple tool for replaying requests from nginx log file to the custom server.
 ## Installation
 
 ```
-npm i -g https://github.com/egorvas/nginx-replay
+npm i -g nginx-replay
 ```
 
 ## Usage

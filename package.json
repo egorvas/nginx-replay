@@ -1,0 +1,19 @@
+{
+  "name": "nginx-replay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "axios": "0.21.1",
+    "commander": "7.2.0",
+    "moment": "2.29.1",
+    "nginxparser": "2.1.0",
+    "winston": "3.3.3"
+  }
+}
