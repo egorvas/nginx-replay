@@ -1,11 +1,15 @@
 {
   "name": "nginx-replay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["replay", "nginx", "logs"],
+  "keywords": [
+    "replay",
+    "nginx",
+    "logs"
+  ],
   "author": "Egor Vasilyev <egorvas@gmail.com>",
   "license": "MIT",
   "description": "A simple tool for replaying requests from nginx log file to the custom server",
