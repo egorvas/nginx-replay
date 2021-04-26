@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const Moment = require('moment');
 const fs = require('fs');
 const NginxParser = require('nginxparser');
